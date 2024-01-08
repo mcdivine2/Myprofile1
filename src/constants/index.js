@@ -121,12 +121,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/ritika789',
+        link: 'https://github.com/mcdivine2',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/ritika-kaur-8b60101b5/',
+        link: '#',
     }
 ];
 
